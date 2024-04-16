@@ -68,7 +68,7 @@ The API will be running locally at `http://127.0.0.1:5000/`.
 
 ## Deployment
 
-The Prakruti API is deployed on Heroku. You can access the live API at [https://prakruti31.onrender.com/predict](https://prakruti31.onrender.com).
+The Prakruti API is deployed on Render. You can access the live API at [https://prakruti31.onrender.com/predict](https://prakruti31.onrender.com).
 
 ## License
 
